@@ -1,4 +1,4 @@
 {
     "command.change_language": "change_language",
-    "command.change_language.description": "Change bot language for your server [Command names are not included. Only the descriptions are changed. Command names are get to the discord language.]"
+    "command.change_language.description": "Change bot language for your server."
 }
