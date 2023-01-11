@@ -1,0 +1,4 @@
+{
+    "command.change_language": "dil_degistir",
+    "command.change_language.description": "Sunucunuz için botun dilini değiştirir. [Komut isimlerini değiştirmez. Sadece açıklamalar değiştirilir. Komut isimleri discord diline göre değiştirilir]"
+}
