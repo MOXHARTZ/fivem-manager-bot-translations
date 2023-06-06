@@ -1,0 +1,4 @@
+{
+    "command.change_language": "cambia_lingua",
+    "command.change_language.description": "Cambia la lingua del bot per il tuo server."
+}
