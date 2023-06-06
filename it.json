@@ -1,4 +1,6 @@
 {
+    "language": "Italiano",
+    "code": "it",
     "command.change_language": "cambia_lingua",
-    "command.change_language.description": "Cambia la lingua del bot per il tuo server."
+    "command.change_language.response": "La lingua del bot è stata impostata su Italiano. {0}"
 }
