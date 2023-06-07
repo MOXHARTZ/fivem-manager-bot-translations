@@ -1,6 +1,8 @@
 {
     "language": "English",
     "code": "en-US",
+    "bot.created.role": "Hey thanks for using our bot! We created a role for you called `BOT ADMIN`. Please assign this role to yourself to use the bot.",
+    "bot.permission.denied": "You don't have permission to use this command.",
     "general.year": " year",
     "general.month": " month",
     "general.week": " week",
