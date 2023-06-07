@@ -1,6 +1,6 @@
 <div align="center">
     <h1 style="font-weight: 700; border-bottom: 0px;">
-        <a href="https://github.com/MOXHARTZ/mx-discordtool">Translations of the FiveM Manager</a>
+        <a href="https://github.com/MOXHARTZ/mx-discordtool">Translations Of The FiveM Manager</a>
     </h1>
 </div>
 
