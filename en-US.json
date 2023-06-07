@@ -56,6 +56,7 @@
     "whitelist.remove.label": "Remove from Whitelist",
     "whitelist.description": "Add or remove user from whitelist.",
     "whitelist.response": "Changed whitelist status. New status: {0}",
+    "whitelist.disabled": "Whitelist is disabled on this server.",
     "wipe.label": "Wipe",
     "wipe.description": "Wipe user data.",
     "wipe.button.ask": "Are you sure you want to wipe this user?",
@@ -145,5 +146,7 @@
     "connection.checking.whitelist": "Checking your whitelist status...",
     "connection.not_whitelisted": "You are not whitelisted on this server. You can use invite link to join the server: {0}",
     "connection.banned": "You are banned from this server. \nReason: {0} \nDuration: {1}",
-    "error.failed_to_get_identifier": "Failed to get identifier. From this source: {0}"
+    "error.failed_to_get_identifier": "Failed to get identifier. From this source: {0}",
+    "qb.set_job.error": "SetJob is not supported for offline players for now.",
+    "qb.set_group.error": "Set group is not supported for offline players. (Qb doesn't have a database for groups)"
 }
