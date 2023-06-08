@@ -10,7 +10,7 @@ You can edit the translations in this folder. The file `en-US.json` is the defau
 
 # COMPLETED TRANSLATIONS
 ![](https://geps.dev/progress/100) English (en-US)<br/>
-
+![](https://geps.dev/progress/100) German (de-DE) - [Turner](https://github.com/PC1up)
 # IN PROGRESS TRANSLATIONS
 ![](https://geps.dev/progress/5) Italian (it-IT) - [HASIDU](https://github.com/hasidu) <br/>
 
