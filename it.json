@@ -157,7 +157,7 @@
     "connection.checking.whitelist": "Sto controllando il tuo stato di whitelist...",
     "connection.not_whitelisted": "Non sei nella whitelist di questo server. Puoi usare il link di invito per unirti al server: {0}",
     "connection.banned": "Sei stato bannato da questo server. \nMotivo: {0} \nDurata: {1}",
-    "error.failed_to_get_identifier": "Impossibile ottenere l'identificatore da questa fonte: {0}"
+    "error.failed_to_get_identifier": "Impossibile ottenere l'identificatore da questa fonte: {0}",
     "qb.set_job.error": "Per ora SetJob non è supportato per i giocatori offline.",
     "qb.set_group.error": "La funzione Imposta gruppo non è supportata per i giocatori offline. (Qb non ha un database per i gruppi).",
     "qb.player_not_found": "QB Giocatore non trovato.",
