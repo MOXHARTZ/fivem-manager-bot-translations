@@ -1,7 +1,6 @@
 {
     "language": "Deutsch",
     "code": "de-DE",
-    "bot.created.role": "Hey, danke, dass du unseren Bot benutzt. Es wurde die Rolle `BOT ADMIN` erstellt. Weise sie dir selber zu, um den Bot zu benutzen.",
     "bot.permission.denied": "Du hst nicht genügend Rechte für diesen Befehl.",
     "general.year": " Jahr",
     "general.month": " Monat",
@@ -28,6 +27,11 @@
     "command.user_is_not_online": "Der ausgewählte Befehl kann nur für Spieler ausgeführt werden, die gerade Online sind.",
     "command.change_language.response": "Sprache auf **{0}** gestellt.",
     "command.change_language.information": "Die Namen und Beschreibungen von Befehlen werden nicht übersetzt sein!",
+    "command.can_not_find_ban_list": "Die Bann-Liste konnte nicht gefunden werden.",
+    "command.ban_list.unban_confirm": "Bist du sicher, dass du diesen Spieler entbannen möchtest?",
+    "command.ban_list.unban_confirm_yes": "Ja",
+    "command.ban_list.unban_confirm_no": "Nein",
+    "command.ban_list.timeout": "Befehl-Timeout. Versuche es später erneut.",
     "set_money.label": "Geld ändern",
     "set_money.description": "Ändere das Geld des Spielers.",
     "set_money.type.label": "Money Type (cash, bank, black_money)",
@@ -161,5 +165,15 @@
     "qb.set_job.error": "SetJob funktioniert im Moment nicht für Offline-Spieler.",
     "qb.set_group.error": "Das Setzen von Gruppen funktioniert im Moment nicht für Offline-Spieler. Dieses Problem ist auf QBCore zurückzuführen; nicht auf dieses Programm.",
     "qb.player_not_found": "QBPlayer nicht gefunden",
-    "esx.player_not_found": "ESX-Spieler nicht gefunden"
+    "esx.player_not_found": "ESX-Spieler nicht gefunden",
+    "ban_list.info.title": "Bann-Liste",
+    "ban_list.info.id": "🆔 ID",
+    "ban_list.info.identifier": "📇 Identifier",
+    "ban_list.info.reason": "📝 Begründung",
+    "ban_list.info.discord": "🎮 Discord",
+    "ban_list.info.duration": "⏱️ Dauer",
+    "ban_list.info.banned_by": "👮 Gebannt von",
+    "ban_list.info.fivem": "🎗 FiveM ID",
+    "ban_list.info.xbl": "📀 XBL ID",
+    "ban_list.info.license": "📜 License"
 }
