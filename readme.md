@@ -12,6 +12,7 @@ You can edit the translations in this folder. The file `en-US.json` is the defau
 ![](https://geps.dev/progress/100) English (en-US)<br/>
 ![](https://geps.dev/progress/100) German (de-DE) - [Turner](https://github.com/PC1up)<br/>
 ![](https://geps.dev/progress/100) Italian (it-IT) - [HASIDU](https://github.com/hasidu) <br/>
+![](https://geps.dev/progress/100) Spanish (es-AR) - [Leannfg](https://github.com/Leannfg)<br/>
 # IN PROGRESS TRANSLATIONS
 
 
