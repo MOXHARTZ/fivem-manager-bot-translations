@@ -16,6 +16,7 @@ You can edit the translations in this folder. The file `en-US.json` is the defau
 ![](https://geps.dev/progress/100) Chinese (zh-CN) - [JNjiaonang](https://github.com/JNjiaonang)<br/>
 ![](https://geps.dev/progress/100) Vietnamese (vi-VN) - [khanhdinhvn](https://github.com/khanhdinhvn)<br/>
 ![](https://geps.dev/progress/100) Turkish (tr-TR) - [EmreSrs](https://github.com/EmreSrs)<br/>
+![](https://geps.dev/progress/100) Chinese (zh-HK) - [CFLam-FiveM](https://github.com/CFLam-FiveM)<br/>
 # IN PROGRESS TRANSLATIONS
 
 
